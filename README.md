@@ -1,7 +1,7 @@
 # Social-Sentiments-Exploring-Consumer-Behavior-and-Market-Trends-on-Social-Media
 Sentiment analysis on social media data using PySpark and NLP techniques to explore consumer behavior and emerging market trends across industries. Built and run on Databricks.
 
-📌 Project Overview
+**📌 Project Overview**
 This project develops a sentiment analysis model for social media data to understand consumer behavior and emerging market trends across industries and demographics. With millions of users expressing opinions on platforms like Twitter, Facebook, and Instagram, this project leverages Natural Language Processing (NLP) to uncover actionable insights for businesses.
 
 🎯 Project Goals
